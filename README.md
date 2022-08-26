@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&layout=compact)](https://github.com/fabortwell/github-readme-stats)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat
+
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)

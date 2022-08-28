@@ -3,7 +3,7 @@
 - 🔭 I’m a fullstack engineer keen on producing sleek and appealing web-applications
 - 🌱 I’m currently learning React and Ruby(ruby on rails)
 - 🤔 I’m looking for help with  Ruby 
-- 💬 Ask me about anything 
+- 💬 Ask me about anything React, Ruby, Ruby on Rails, and Firebase
 - 📫 How to reach me: ...
 - 😄 Pronouns: Brian
 

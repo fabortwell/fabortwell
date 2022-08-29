@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Brian Sitati
 
 - 🔭 I’m a fullstack engineer keen on producing sleek and appealing web-applications
 - 🌱 I’m currently learning React and Ruby(ruby on rails)
@@ -27,4 +27,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&layout=compact)](https://github.com/fabortwell/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabortwell&theme=radical)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=fabortwell)](https://github.com/fabortwell/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=radical)](https://github.com/kenyansa/github-profile-trophy)

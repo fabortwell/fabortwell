@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fabortwell)](https://github.com/fabortwell/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenyansa&theme=radical)](https://github.com/kenyansa/github-profile-trophy)
+

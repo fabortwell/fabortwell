@@ -1,34 +1,21 @@
-### Hi there 👋 I am Brian Sitati
+
+<div align="center"><h1> 👋 Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Brian </h1> </div>
 
 - 🔭 I’m a fullstack engineer keen on producing sleek and appealing web-applications
-- 🌱 I’m currently learning React and Ruby(ruby on rails)
-- 🤔 I’m looking for help with  Ruby 
+- 🌱 I’m currently mastering React and Ruby(ruby on rails)
+- 🤔 I’m looking for help with docker and machine learning
 - 💬 Ask me about anything React, Ruby, Ruby on Rails, and Firebase
 - 📫 How to reach me: ...
 - 😄 Pronouns: Brian
 
 
-<!--
-**fabortwell/fabortwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Stack
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![fabortwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabortwell&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&layout=compact)](https://github.com/fabortwell/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabortwell&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fabortwell)](https://github.com/fabortwell/github-profile-trophy)
-
+# GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=fabortwell&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fabortwell&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=fabortwell&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- made using https://prm.pushkaryadav.in -->
 

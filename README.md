@@ -37,7 +37,7 @@
 
 <!-- made using https://prm.pushkaryadav.in -->
 
-# GitHub Stats :
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fabortwell&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fabortwell&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

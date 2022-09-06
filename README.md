@@ -1,5 +1,5 @@
 
-<div align="center"><h1> 👋 Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Brian </h1> </div>
+<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Brian </h1> </div>
 
 - 🔭 I’m a fullstack engineer keen on producing sleek and appealing web-applications
 - 🌱 I’m currently mastering React and Ruby(ruby on rails)

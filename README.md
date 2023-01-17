@@ -41,7 +41,7 @@
 <!-- made using https://prm.pushkaryadav.in -->
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fabortwell&hide_border=false&include_all_commits=false&count_private=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabortwell)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fabortwell&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---

@@ -41,6 +41,6 @@
 <!-- made using https://prm.pushkaryadav.in -->
 
 # GitHub Stats:
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabortwell)([https://github.com/fabortwell](https://github.com/fabortwell/github-readme-stats)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabortwell&count_private=true)
 
 

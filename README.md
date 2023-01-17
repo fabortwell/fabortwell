@@ -12,6 +12,9 @@
 - 😄 Pronouns: Brian
 
 
+# profile views:
+![](https://komarev.com/ghpvc/?username=fabortwell)
+
 # Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +46,10 @@
 # GitHub Stats:
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=fabortwell)
 
+# Most Languages Used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&layout=compact)](https://github.com/fabortwell/github-readme-stats)
+
+# Readme Jokes:
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 

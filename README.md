@@ -43,4 +43,7 @@
 # GitHub Stats:
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=fabortwell)
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 

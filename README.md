@@ -1,6 +1,6 @@
 
 
-[![](https://visitcount.itsvg.in/api?id=fabortwell&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 <div align="center"><h1> Hi, I am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Brian </h1> </div>
 
@@ -10,10 +10,6 @@
 - 💬 Ask me about anything React, Ruby, Ruby on Rails, and Firebase
 - 📫 How to reach me: ...
 - 😄 Pronouns: Brian
-
-
-# profile views:
-![](https://komarev.com/ghpvc/?username=fabortwell)
 
 # Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

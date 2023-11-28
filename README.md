@@ -37,10 +37,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-<!-- made using https://prm.pushkaryadav.in -->
-
-# GitHub Stats:
-![Brian's github stats](https://github-readme-stats.vercel.app/api?username=fabortwell)
 
 # Most Languages Used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabortwell&layout=compact)](https://github.com/fabortwell/github-readme-stats)
